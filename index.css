@@ -1,0 +1,55 @@
+/* Styling for the main container */
+.main {
+    width: 40%; /* Set the width to 40% of the page */
+    box-shadow: 1px 1px 10px silver; /* Add a soft shadow around the box */
+    margin-top: 45px; /* Space from the top */
+    padding: 10px; /* Inner spacing inside the container */
+}
+
+/* Styling for h2 headings */
+h2 {
+    font-family: "Cairo", sans-serif; /* Use the "Cairo" font for Arabic-friendly style */
+}
+
+/* Styling for input fields */
+input {
+    margin-bottom: 10px; /* Space below each input */
+    width: 60%; /* Set input width to 60% of the container */
+    padding: 5px; /* Inner spacing inside the input */
+    font-family: "Cairo", sans-serif; /* Use "Cairo" font */
+    font-size: 15px; /* Font size */
+    font-weight: bold; /* Bold text */
+}
+
+/* Styling for buttons */
+button {
+    border: none; /* Remove default border */
+    padding: 10px; /* Inner padding */
+    width: 40%; /* Button width */
+    font-weight: bold; /* Bold text */
+    font-size: 15px; /* Font size */
+    background-color: #1AC15C; /* Green background color */
+    cursor: pointer; /* Show pointer cursor on hover */
+    font-family: "Cairo", sans-serif; /* Use "Cairo" font */
+    margin-bottom: 15px; /* Space below the button */
+}
+
+/* Styling for labels */
+label {
+    padding: 10px; /* Inner padding */
+    cursor: pointer; /* Pointer cursor on hover */
+    font-weight: bold; /* Bold text */
+    font-size: 15px; /* Font size */
+    background-color: #1F87Cf; /* Blue background */
+    font-family: "Cairo", sans-serif; /* Use "Cairo" font */
+    color: white; /* White text color */
+}
+
+/* Styling for links */
+a {
+    text-decoration: none; /* Remove underline from links */
+    font-size: 20px; /* Font size */
+    color: tomato; /* Tomato (reddish-orange) text color */
+    font-family: "Cairo", sans-serif; /* Use "Cairo" font */
+    font-weight: bold; /* Bold text */
+}
